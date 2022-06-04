@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.itk-slider{
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 25px;
+  text-align: center;
+}
+.itk-slider img {
+  height: 140px;
+  width: 260px;
+}
